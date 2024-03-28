@@ -1,0 +1,78 @@
+body{
+
+    background-color: black;
+}
+
+.verde{
+
+    color: white;
+    background-color: darkgreen;
+}
+
+.azul{
+
+    color: white;
+    background-color: blue;
+}
+
+.laranja{
+
+    color: white;
+    background-color: darkorange;
+}
+
+.amarelo{
+
+    color: white;
+    background-color: goldenrod;
+}
+
+.turquesa{
+
+    color: white;
+    background-color: turquoise;
+}
+
+.gelo{
+
+    color: white;
+    background-color: darkcyan;
+}
+
+.cinza{
+
+    color: white;
+    background-color: darkslategrey;
+}
+
+.rosa{
+
+    color: white;
+    background-color: palevioletred;
+}
+
+.lilas{
+
+    color: white;
+    background-color: purple;
+}
+
+.colunas{
+
+    color: white;
+}
+
+h1{
+
+    color: white;
+}
+
+h2{
+
+    color: white;
+}
+
+.centro{
+
+    text-align: center;
+}
